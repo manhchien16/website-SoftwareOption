@@ -1,4 +1,4 @@
-## Ogerall:
+## Overall:
 -The SoftwareStore website is crafted using HTML, CSS, and Bootstrap, ensuring a sleek and modern design. Leveraging Bootstrap's powerful framework, the site is fully responsive, providing an optimal viewing experience across a wide range of devices. Whether accessed from a desktop, tablet, or smartphone, the layout adapts seamlessly, maintaining usability and aesthetic appeal. This responsive design approach ensures that all users can easily navigate and interact with the site, regardless of the device they are using. By integrating Bootstrap's responsive grid system and components, SoftwareOption delivers a professional and user-friendly web presence that aligns with its commitment to technological excellence and customer satisfaction.
 ## Key Features:
 - [MVC]()
